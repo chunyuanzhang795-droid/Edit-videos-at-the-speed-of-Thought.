@@ -1,0 +1,5 @@
+{
+  "name": "SmartCut AI",
+  "description": "Intelligent video editor that removes redundancy and dynamically adjusts speed based on information density (1.0x Core, 1.5x Context, 5.0x Mechanical).",
+  "requestFramePermissions": []
+}
